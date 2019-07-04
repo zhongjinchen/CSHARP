@@ -6,9 +6,11 @@ namespace CSHARP
     {
         static void Main(string[] args)
         {
-            Binary_search.Binary();
+            //Binary_search.Binary();
+            Random_Array.Array();
+
         }
 
-       
+
     }
 }

@@ -7,10 +7,17 @@ namespace CSHARP
         static void Main(string[] args)
         {
             //Binary_search.Binary();
-            Random_Array.Array();
 
+            //Random_Array.Array();
+
+            Bubble_sort.Bubble();
         }
 
-
+      
     }
+
+
+
+    
 }
+

@@ -6,6 +6,9 @@ namespace CSHARP
 {
     class Beauty
     {
-        
+        public Beauty()
+        {
+
+        }
     }
 }
